@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\VisualStudio\Studio\VC\Tools\MSVC\14.41.34120\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+E:\VisualStudio\Studio\VC\Tools\MSVC\14.41.34120\include\span(12): warning STL4038: The contents of <span> are available only with C++20 or later.
+  Создание кода
+  1 of 242 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  home-6-5-1.vcxproj -> E:\VisualStudio\home\home-6-5-1\x64\Release\home-6-5-1.exe
